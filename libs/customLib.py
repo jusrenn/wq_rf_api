@@ -1,0 +1,3 @@
+isim = "Yusuf"
+
+isim.is
